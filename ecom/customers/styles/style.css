@@ -1,0 +1,51 @@
+body{
+	
+}
+
+.navbar {
+	
+    margin-bottom: 0px;
+}
+
+.navbar li:hover{
+	background:#FFEA02;
+} 
+
+.well{
+	 background:#ffffff;
+	 height:720px;
+	 
+ }
+
+ #wel{
+	 margin-top:10px;
+ }
+ 
+ #item_list1{
+	 color:#ffffff !important;
+	 background:#00FF5F;
+ }
+ 
+ #well1{
+	 background:#ffffff;
+	 height:40px;
+	
+ }
+ 
+ #well2{
+	 background:#ffffff;
+	 height:700px;
+	}
+
+	
+
+/*.footer{
+	background:green;
+	width:100%;
+	height:8.3%;
+	float:left;
+	clear:both;
+}
+#dev{
+	text-align:center;
+}*/
